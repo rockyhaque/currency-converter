@@ -1,10 +1,10 @@
 # Currency Converter Web Application
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/currency-converter)
-![GitHub stars](https://img.shields.io/github/stars/your-username/currency-converter?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/currency-converter?style=social)
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-handle/)](https://www.linkedin.com/in/your-linkedin-handle/)
+![GitHub repo size](https://img.shields.io/github/repo-size/rockyhaque/currency-converter)
+![GitHub stars](https://img.shields.io/github/stars/rockyhaque/currency-converter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rockyhaque/currency-converter?style=social)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/rocky_haque10?style=social)](https://twitter.com/rocky_haque10)
+[![Follow me on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rockyhaque/)](https://www.linkedin.com/in/rockyhaque/)
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Welcome to the Currency Converter Web Application repository! This project is a web application that allows users to convert currencies easily.
+Welcome to the Currency Converter Web Application! This project is a web application that allows users to convert currencies easily.
 
 ## Features
 
@@ -27,7 +27,7 @@ Welcome to the Currency Converter Web Application repository! This project is a 
 
 ## Demo
 
-Try out the Currency Converter: [Currency Converter Demo](https://your-username.github.io/currency-converter/)
+Try out the Currency Converter: [Currency Converter](https://rockyhaque.github.io/currency-converter/)
 
 ## Technologies Used
 
@@ -37,7 +37,7 @@ Try out the Currency Converter: [Currency Converter Demo](https://your-username.
 
 ## How to Use
 
-1. Open the [Currency Converter Demo](https://your-username.github.io/currency-converter/).
+1. Open the [Currency Converter](https://rockyhaque.github.io/currency-converter/).
 2. Select the currencies you want to convert from and to.
 3. Enter the amount you want to convert.
 4. See the converted amount in real-time.
